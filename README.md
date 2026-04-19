@@ -1,5 +1,7 @@
 # DeepSeek2API
 
+简体中文 | [English](README-en.md)
+
 通过 DeepSeek 官网聊天页（Playwright 自动化）提供一个兼容 OpenAI Chat Completions 的本地 API 服务。
 
 ## 功能
