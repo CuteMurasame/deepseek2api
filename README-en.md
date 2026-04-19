@@ -1,5 +1,7 @@
 # DeepSeek2API
 
+[简体中文](README.md) | English
+
 An OpenAI-compatible local Chat Completions API built by automating the DeepSeek web chat with Playwright.
 
 ## Features
